@@ -1,0 +1,12 @@
+body {
+    width: 90%;
+    margin: auto;
+    text-align: justify;
+    color: black;
+    background-color: lightgrey;
+    font-family: Courier New, Monospace;
+
+
+.clearIt{
+    clear: both;
+}
